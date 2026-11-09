@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.ll
+*.o
+*.skel.h
+*.h~
+/vmlinux.h
+/vmlinux.btf
+/tcxmirror
